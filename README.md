@@ -1,4 +1,4 @@
-| [Background Slider)](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/BackgroundSlider) | [Live Demo](https://lana-20.github.io/background-slider/) |
+| [Background Slider](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/BackgroundSlider) | [Live Demo](https://lana-20.github.io/background-slider/) |
 |----|----|
 
 I am building an image slider that also has a changing background image.
